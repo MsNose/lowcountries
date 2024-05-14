@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dutch on BlogRa</title>
+    <link>https://example.com/blogra/tags/dutch/</link>
+    <description>Recent content in dutch on BlogRa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/blogra/tags/dutch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baarle-Nassau</title>
+      <link>https://example.com/blogra/sections/vlaanderen/2024-02-23-baarle-nassau/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogra/sections/vlaanderen/2024-02-23-baarle-nassau/</guid>
+      <description>This is a 7000 inhabitant municipality in the Netherlands. It would just be an average boring small town, however, it has something that I have never experienced before.</description>
+    </item>
+    <item>
+      <title>Turnhout</title>
+      <link>https://example.com/blogra/sections/vlaanderen/2024-02-23-turnhout/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogra/sections/vlaanderen/2024-02-23-turnhout/</guid>
+      <description>The town has a 1 km long border with the Netherlands, but it feels like you are already on the other side. A modern business building is welcoming you at the station, which could be also in Tilburg or Eindhoven.</description>
+    </item>
+  </channel>
+</rss>

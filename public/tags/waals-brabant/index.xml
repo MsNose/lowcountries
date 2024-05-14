@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Waals-Brabant on BlogRa</title>
+    <link>https://example.com/blogra/tags/waals-brabant/</link>
+    <description>Recent content in Waals-Brabant on BlogRa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/blogra/tags/waals-brabant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waterloo, Nivelles, Louvain-la-Neuve</title>
+      <link>https://example.com/blogra/sections/wallonia/2024-03-06-waterloo/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogra/sections/wallonia/2024-03-06-waterloo/</guid>
+      <description>https://datawrapper.dwcdn.net/XeH1U/1/&#xA;Waterloo If you know more about this place than what is mentioned in the ABBA song, then that is already impressive. Waterloo was a typical insignificant stopping village on a trading route where people could get a break and spend the night.</description>
+    </item>
+  </channel>
+</rss>

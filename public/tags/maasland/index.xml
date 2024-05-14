@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maasland on BlogRa</title>
+    <link>https://example.com/blogra/tags/maasland/</link>
+    <description>Recent content in maasland on BlogRa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/blogra/tags/maasland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sint Truiden</title>
+      <link>https://example.com/blogra/sections/vlaanderen/2024-03-02-sint-truiden/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogra/sections/vlaanderen/2024-03-02-sint-truiden/</guid>
+      <description>Limburg is very different from the rest of the provinces, after all historically it was always separately handled. It is now a mix of post-industrial mining towns with decline and anger like Genk or Maasmechelen, while the southern parts with their fertile grounds in Haspengouw are hosting the traditional Christian farmers.</description>
+    </item>
+  </channel>
+</rss>

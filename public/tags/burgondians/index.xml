@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Burgondians on BlogRa</title>
+    <link>https://example.com/blogra/tags/burgondians/</link>
+    <description>Recent content in Burgondians on BlogRa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/blogra/tags/burgondians/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mechelen</title>
+      <link>https://example.com/blogra/sections/vlaanderen/2024-02-24-mechelen/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogra/sections/vlaanderen/2024-02-24-mechelen/</guid>
+      <description>The centrum of Vlaanderen. The first real capital was established by Philip the Good during the Burgundian golden age. Thus the home of many politicians who were members of the Great Council.</description>
+    </item>
+    <item>
+      <title>Lier</title>
+      <link>https://example.com/blogra/sections/vlaanderen/2024-02-23-lier/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogra/sections/vlaanderen/2024-02-23-lier/</guid>
+      <description>Lierke Plezierke - Fun little Lier. That is the nickname of the town. Indeed Lier is a really pleasant town, maybe that is why even Johanna from Castilia was motivated enough to ditch Spain and come here to the Low Countries for her wedding with Filip the Schone.</description>
+    </item>
+  </channel>
+</rss>

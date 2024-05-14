@@ -1,0 +1,165 @@
+#header {
+    padding-top: 26px;
+    background-color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif; /* Change font to Poppins */
+
+
+
+    .top-bar {
+        background-color: white;
+
+        .navburger {
+            background-color: white;
+
+
+        }
+
+        .title {
+            margin-bottom: 0;
+            font-size: 2.5rem;
+
+            a {
+                color: #8CBDB9;
+                text-decoration: none;
+                font-family: 'Poppins';
+                margin: 0;
+            }
+        }
+        
+        .social-buttons {
+            text-align: left;
+            font-size: 20px;
+
+
+            ul {
+                margin: 0;
+                padding-left: 0;
+                list-style-type: none;
+
+
+                li {
+                    display: inline-block;
+                    margin: 3px;
+
+
+                    a {
+                        color: $dark;
+                    }
+                }
+            }
+        }
+
+        .ra-toggler {
+            // text-align: left;
+            padding: 0;
+
+            button {
+                color: white;
+                border: 0;
+            }
+        }
+
+        .search-bar {
+            text-align: right;
+            
+
+            *:focus {
+                border-color: none;
+                box-shadow: none;
+            }
+
+            i {
+                font-size: 1.3rem;
+            }
+
+            input {
+                width: 50%;
+                border: 0px;
+                border-radius: 0;
+                background-color: white;
+                color:$dark;
+
+                &::placeholder {
+                    font-family: 'Poppins', sans-serif;
+                    font-size: 0.9rem;
+                    font-weight: 400;
+                    color: $dark;
+                    text-align: right;
+                    text-transform: uppercase;
+                    letter-spacing: 2px;
+                }
+
+                &:focus {
+                    border-bottom: 1px solid $dark;
+
+                    &::placeholder {
+                        color: transparent;
+                    }
+                }
+            }
+
+            button {
+                color: rgb(196, 196, 196);
+
+                &:hover {
+                    color:white;
+                }
+            }
+        }
+    }
+
+    
+    nav {
+        background-color: white;
+
+        
+        ul {
+            background-color: white;
+
+            li {
+                padding: 0 2rem;
+                background-color: white;
+                /* Set background color for menu points to white */             
+                a {
+                        color: $dark;
+                        background-color: white;
+                    }
+
+            }
+        }
+
+        .social-buttons {
+            padding-left: 0;
+            text-align: center;
+
+
+
+            ul {
+                padding-left: 0;
+
+
+                li {
+                    display: inline-block;
+                    background-color: white; /* Set background color for menu points to white */
+                    margin: 3px;
+                    padding: 0.5rem;
+
+
+                    a {background-color: white;
+
+                        color: $dark;
+                    }
+                }
+            }
+        }
+
+        button {
+            color: $dark;
+
+            &:hover {
+                color:white;
+            }
+        }
+    }
+}
